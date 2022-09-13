@@ -75,7 +75,7 @@ public class LowCostVideo {
     private final String videoBIN = "https?:\\/\\/(www\\.)?(videobin\\.co)\\/.+";
     private final String fourShared = "https?:\\/\\/(www\\.)?(4shared\\.com)\\/(video|web\\/embed)\\/.+";
     private final String streamtape = "https?:\\/\\/(www\\.)?(streamtape\\.com)\\/(v)\\/.+";
-    private final String vudeo = "https?:\\/\\/(www\\.)?(vudeo\\.net)\\/.+";
+    private final String vudeo = "https?:\\/\\/(www\\.)?(vudeo\\.io)\\/.+";
 
     public LowCostVideo(@NonNull Context context){
         this.context=context;
