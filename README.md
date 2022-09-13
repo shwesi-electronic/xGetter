@@ -48,7 +48,7 @@ I change something to comply with Google play policy.
 - **27. BitTube**
 - **28. 4Shared**
 - **29. StreamTape**
-- **30. Vudeo**
+- **30. Vudeo** change host .io
   
   
 တို့ပဲဖြစ်ပါတယ်။  
